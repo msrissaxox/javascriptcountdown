@@ -21,14 +21,15 @@ This is a simple countdown timer web app that starts a countdown from 60 seconds
 
 ## Installation
 
-1. **Clone the repository:**
+- **Clone the repository:**
 ```bash
 git clone https://github.com/your-username/countdown-timer.git
-
-2. **Navigate to the project folder:**
+```
+- **Navigate to the project folder:**
+```bash
 cd countdown-timer
-
-3. **Run the project**
+```
+- **Run the project**
 Open the index.html file in a web browser to view the countdown timer
 
 ## Usage
